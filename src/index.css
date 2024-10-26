@@ -15,11 +15,3 @@ body {
     font-size: 18px !important;
 }
 
-.custom-select .ant-select-dropdown {
-    background-color: #F59E0B; /* Yellow-500 */
-}
-
-.custom-select .ant-select-item {
-    color: #111827; /* Gray-900 */
-}
-

@@ -41,7 +41,6 @@ const RandomNumbers = () => {
                         {value: "/date", label: "Date",},
                         {value: "/math", label: "Math",},
                       ]}
-                      dropdownClassName="custom-select"
                   />
                 </div>
 
